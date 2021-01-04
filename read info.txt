@@ -1,0 +1,11 @@
+npm start
+
+ng build
+
+
+
+ng g component components/world
+
+ng g component components/asia
+ng g component components/europe
+ng g component components/africa
